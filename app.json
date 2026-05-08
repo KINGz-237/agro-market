@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "def21184-6550-4408-9d4d-c51813ab516c"
+      }
+    },
+    "owner": "kingzclin",
+    "android": {
+      "package": "com.kingsclin.agromarket"
+    }
+  }
+}

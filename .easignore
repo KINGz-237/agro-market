@@ -1,0 +1,7 @@
+﻿node_modules/
+.git/
+AppData/
+ElevatedDiagnostics/
+Temp/
+*.tmp
+C:/Users/Lenovo/AppData/
